@@ -20,9 +20,9 @@ public class Driver{
 			do {
 				System.out.print("\nEnter the file name you would like to read: ");
 				inputFile = input.nextLine();
-			}while((inputFile.compareTo("ascending.txt") != 0) &&
-					(inputFile.compareTo("descending.txt") != 0) &&
-					(inputFile.compareTo("random.txt") != 0));
+			}while((inputFile.compareTo("AscendingOrderData.txt") != 0) &&
+					(inputFile.compareTo("DescendingOrderData.txt") != 0) &&
+					(inputFile.compareTo("RandomOrderData.txt") != 0));
 			
 			readFile(inputFile, mSort, qSort, hSort);
 			sortArrays(inputFile, mSort, qSort, hSort);
