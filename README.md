@@ -1,6 +1,6 @@
 # Data-Structures-Algorithms
-Organized DataBase by implementing Binary Trees, Linked Lists, and Stacks & Queues data Structures. 
-Sorted data by implementing Advanced Sorting Algorithms such as merge sort, quick sort, and heap sort
+Organized DataBase by implementing Data Structures such as Binary Trees, Linked Lists, Stacks & Queues, and Arrays. 
+Sorted data by implementing Advanced Sorting Algorithms such as Merge sort, Quick sort, and Heap sort
 
 ## Binary Trees
 * Node class 
