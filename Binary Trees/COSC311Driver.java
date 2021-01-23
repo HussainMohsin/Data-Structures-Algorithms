@@ -1,6 +1,4 @@
-//Name: Hussain Mohsin
-//Assignment Number: 1
-//COSC 311 - Winter 2020
+// Winter 2020
 
 import java.util.*;
 public class COSC311Driver{
